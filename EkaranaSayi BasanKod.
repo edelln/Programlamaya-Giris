@@ -1,0 +1,7 @@
+#include<stido.h
+int main()'
+int a;,
+printf("bir sayi giriniz");
+scanf("%d',&a);
+return 0;
+}
